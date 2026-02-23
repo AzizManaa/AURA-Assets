@@ -8,9 +8,9 @@
       "subtitle": "",
       "category": "RAIN",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/calmrain_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/calmrain_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/calmrain_c.aac"
       ],
       "iconName": "water_drop",
       "imageResName": "midnightrain"
@@ -32,9 +32,9 @@
       "subtitle": "gentle rain drops",
       "category": "RAIN",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/soft_drizzle_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/soft_drizzle_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/soft_drizzle_c.aac"
       ],
       "iconName": "rain_light",
       "imageResName": "softdrizzle"
@@ -46,9 +46,9 @@
       "subtitle": "lightning in dark sky",
       "category": "RAIN",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/thunderstorm_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/thunderstorm_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/thunderstorm_c.aac"
       ],
       "iconName": "thunder",
       "imageResName": "thunderstorm"
@@ -60,9 +60,9 @@
       "subtitle": "attic window rain",
       "category": "RAIN",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/roof_patter_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/roof_patter_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/roof_patter_c.aac"
       ],
       "iconName": "window",
       "imageResName": "roofpatter"
@@ -74,9 +74,9 @@
       "subtitle": "dark misty forest pine trees",
       "category": "NATURE",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/deepforest_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/deepforest_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/deepforest_c.aac"
       ],
       "iconName": "forest",
       "imageResName": "deepforest"
@@ -88,9 +88,9 @@
       "subtitle": "waves crashing on shore",
       "category": "NATURE",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/oceanwaves_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/oceanwaves_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/oceanwaves_c.aac"
       ],
       "iconName": "waves",
       "imageResName": "oceantides"
@@ -102,9 +102,9 @@
       "subtitle": "wind through trees",
       "category": "NATURE",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/wind_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/wind_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/wind_c.aac"
       ],
       "iconName": "wind"
     },
@@ -124,9 +124,9 @@
       "subtitle": "wood fire crackling",
       "category": "NATURE",
       "audioUrls": [
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_a.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_b.aac",
-        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_c.aac"
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/campfire_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/campfire_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/blob/main/releases/download/audio-v1/campfire_c.aac"
       ],
       "iconName": "fire"
     },
@@ -180,4 +180,3 @@
     }
   ]
 }
-
