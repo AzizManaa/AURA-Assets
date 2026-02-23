@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "id": "calming_rain",
+      "name": "Calming Rain",
+      "description": "Gentle rain ambience",
+      "subtitle": "",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/calmrain_c.aac"
+      ],
+      "iconName": "water_drop",
+      "imageResName": "midnightrain"
+    },
+    {
+      "id": "midnight_rain",
+      "name": "Midnight Rain",
+      "description": "Heavy & Rhythmic",
+      "subtitle": "rain on glass",
+      "category": "RAIN",
+      "audioUrls": [],
+      "iconName": "rain_heavy",
+      "imageResName": "midnightrain"
+    },
+    {
+      "id": "soft_drizzle",
+      "name": "Soft Drizzle",
+      "description": "Light & Calm",
+      "subtitle": "gentle rain drops",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/soft_drizzle_c.aac"
+      ],
+      "iconName": "rain_light",
+      "imageResName": "softdrizzle"
+    },
+    {
+      "id": "thunderstorm",
+      "name": "Thunderstorm",
+      "description": "Deep & Powerful",
+      "subtitle": "lightning in dark sky",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/thunderstorm_c.aac"
+      ],
+      "iconName": "thunder",
+      "imageResName": "thunderstorm"
+    },
+    {
+      "id": "roof_patter",
+      "name": "Roof Patter",
+      "description": "Tin Roof Echo",
+      "subtitle": "attic window rain",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/roof_patter_c.aac"
+      ],
+      "iconName": "window",
+      "imageResName": "roofpatter"
+    },
+    {
+      "id": "deep_forest",
+      "name": "Deep Forest",
+      "description": "Misty & Serene",
+      "subtitle": "dark misty forest pine trees",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/deepforest_c.aac"
+      ],
+      "iconName": "forest",
+      "imageResName": "deepforest"
+    },
+    {
+      "id": "ocean_waves",
+      "name": "Ocean Waves",
+      "description": "Rhythmic Tides",
+      "subtitle": "waves crashing on shore",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/oceanwaves_c.aac"
+      ],
+      "iconName": "waves",
+      "imageResName": "oceantides"
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "description": "Gentle Breeze",
+      "subtitle": "wind through trees",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/wind_c.aac"
+      ],
+      "iconName": "wind"
+    },
+    {
+      "id": "crickets",
+      "name": "Crickets",
+      "description": "Summer Night",
+      "subtitle": "crickets in meadow",
+      "category": "NATURE",
+      "audioUrls": [],
+      "iconName": "crickets"
+    },
+    {
+      "id": "campfire",
+      "name": "Campfire",
+      "description": "Warm Crackle",
+      "subtitle": "wood fire crackling",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_a.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_b.aac",
+        "https://github.com/AzizManaa/AURA-Assets/releases/download/audio-v1/campfire_c.aac"
+      ],
+      "iconName": "fire"
+    },
+    {
+      "id": "white_noise",
+      "name": "White Noise",
+      "description": "Full Spectrum",
+      "subtitle": "static white noise",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "noise_white",
+      "imageResName": "whitenoise"
+    },
+    {
+      "id": "pink_noise",
+      "name": "Pink Noise",
+      "description": "Balanced Hiss",
+      "subtitle": "soft pink noise",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "noise_pink",
+      "imageResName": "pinknoise"
+    },
+    {
+      "id": "brown_noise",
+      "name": "Brown Noise",
+      "description": "Deep Rumble",
+      "subtitle": "low frequency hum",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "noise_brown",
+      "imageResName": "brownnoise"
+    },
+    {
+      "id": "binaural_focus",
+      "name": "Binaural Focus",
+      "description": "40Hz Gamma",
+      "subtitle": "binaural beat tones",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "binaural"
+    },
+    {
+      "id": "drone_pad",
+      "name": "Drone Pad",
+      "description": "Ambient Wash",
+      "subtitle": "synthesizer drone",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "drone"
+    }
+  ]
+}
+
