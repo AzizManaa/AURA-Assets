@@ -178,5 +178,14 @@
       "audioUrls": [],
       "iconName": "drone"
     }
+     {
+      "id": "airplane_sound",
+      "name": "airplane",
+      "description": "airplane",
+      "subtitle": "synthesizer drone",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "airplane"
+    }
   ]
 }
