@@ -1,0 +1,201 @@
+{
+  "version": 2,
+  "sounds": [
+    {
+      "id": "calming_rain",
+      "name": "Calming Rain",
+      "description": "Gentle rain ambience",
+      "subtitle": "",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_c.aac"
+      ],
+      "iconName": "water_drop",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/calmrain.png"
+    },
+    {
+      "id": "midnight_rain",
+      "name": "Midnight Rain",
+      "description": "Heavy & Rhythmic",
+      "subtitle": "rain on glass",
+      "category": "RAIN",
+      "audioUrls": [],
+      "iconName": "rain_heavy",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/midnightrain.webp"
+    },
+    {
+      "id": "soft_drizzle",
+      "name": "Soft Drizzle",
+      "description": "Light & Calm",
+      "subtitle": "gentle rain drops",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_c.aac"
+      ],
+      "iconName": "rain_light",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/softdrizzle.webp"
+    },
+    {
+      "id": "thunderstorm",
+      "name": "Thunderstorm",
+      "description": "Deep & Powerful",
+      "subtitle": "lightning in dark sky",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_c.aac"
+      ],
+      "iconName": "thunder",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/thunderstorm.webp"
+    },
+    {
+      "id": "roof_patter",
+      "name": "Roof Patter",
+      "description": "Tin Roof Echo",
+      "subtitle": "attic window rain",
+      "category": "RAIN",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_c.aac"
+      ],
+      "iconName": "window",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/roofpatter.webp"
+    },
+    {
+      "id": "deep_forest",
+      "name": "Deep Forest",
+      "description": "Misty & Serene",
+      "subtitle": "dark misty forest pine trees",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_c.aac"
+      ],
+      "iconName": "forest",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/deepforest.webp"
+    },
+    {
+      "id": "ocean_waves",
+      "name": "Ocean Waves",
+      "description": "Rhythmic Tides",
+      "subtitle": "waves crashing on shore",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_c.aac"
+      ],
+      "iconName": "waves",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/oceantides.webp"
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "description": "Gentle Breeze",
+      "subtitle": "wind through trees",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_c.aac"
+      ],
+      "iconName": "wind",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
+    },
+    {
+      "id": "crickets",
+      "name": "Crickets",
+      "description": "Summer Night",
+      "subtitle": "crickets in meadow",
+      "category": "NATURE",
+      "audioUrls": [],
+      "iconName": "crickets",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
+    },
+    {
+      "id": "campfire",
+      "name": "Campfire",
+      "description": "Warm Crackle",
+      "subtitle": "wood fire crackling",
+      "category": "NATURE",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_c.aac"
+      ],
+      "iconName": "fire",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/campfire.webp"
+    },
+    {
+      "id": "white_noise",
+      "name": "White Noise",
+      "description": "Full Spectrum",
+      "subtitle": "static white noise",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "noise_white",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/whitenoise.webp"
+    },
+    {
+      "id": "pink_noise",
+      "name": "Pink Noise",
+      "description": "Balanced Hiss",
+      "subtitle": "soft pink noise",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "noise_pink",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/pinknoise.webp"
+    },
+    {
+      "id": "brown_noise",
+      "name": "Brown Noise",
+      "description": "Deep Rumble",
+      "subtitle": "low frequency hum",
+      "category": "SYNTHETIC",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/brownnoise.aac"
+      ],
+      "iconName": "noise_brown",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/brownnoise.webp"
+    },
+    {
+      "id": "binaural_focus",
+      "name": "Binaural Focus",
+      "description": "40Hz Gamma",
+      "subtitle": "binaural beat tones",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "binaural",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
+    },
+    {
+      "id": "drone_pad",
+      "name": "Drone Pad",
+      "description": "Ambient Wash",
+      "subtitle": "synthesizer drone",
+      "category": "SYNTHETIC",
+      "audioUrls": [],
+      "iconName": "drone",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
+    },
+    {
+      "id": "airplane_sound",
+      "name": "airplane",
+      "description": "airplane",
+      "subtitle": "synthesizer drone",
+      "category": "SYNTHETIC",
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/Airplane.m4a"
+      ],
+      "iconName": "airplane",
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/airplane.webp"
+    }
+  ]
+}
