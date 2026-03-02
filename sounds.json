@@ -8,12 +8,12 @@
       "subtitle": "",
       "category": "RAIN",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/calmrain_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/calmrain_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/calmrain_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/calmrain_c.aac"
       ],
       "iconName": "water_drop",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/midnightrain.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/calmrain.png"
     },
     {
       "id": "midnight_rain",
@@ -23,7 +23,7 @@
       "category": "RAIN",
       "audioUrls": [],
       "iconName": "rain_heavy",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/midnightrain.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/midnightrain.webp"
     },
     {
       "id": "soft_drizzle",
@@ -32,12 +32,12 @@
       "subtitle": "gentle rain drops",
       "category": "RAIN",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/soft_drizzle_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/soft_drizzle_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/soft_drizzle_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/soft_drizzle_c.aac"
       ],
       "iconName": "rain_light",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/softdrizzle.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/softdrizzle.webp"
     },
     {
       "id": "thunderstorm",
@@ -46,12 +46,12 @@
       "subtitle": "lightning in dark sky",
       "category": "RAIN",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/thunderstorm_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/thunderstorm_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/thunderstorm_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/thunderstorm_c.aac"
       ],
       "iconName": "thunder",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/thunderstorm.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/thunderstorm.webp"
     },
     {
       "id": "roof_patter",
@@ -60,12 +60,12 @@
       "subtitle": "attic window rain",
       "category": "RAIN",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/roof_patter_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/roof_patter_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/roof_patter_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/roof_patter_c.aac"
       ],
       "iconName": "window",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/roofpatter.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/roofpatter.webp"
     },
     {
       "id": "deep_forest",
@@ -74,12 +74,12 @@
       "subtitle": "dark misty forest pine trees",
       "category": "NATURE",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/deepforest_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/deepforest_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/deepforest_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/deepforest_c.aac"
       ],
       "iconName": "forest",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/deepforest.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/deepforest.webp"
     },
     {
       "id": "ocean_waves",
@@ -88,12 +88,12 @@
       "subtitle": "waves crashing on shore",
       "category": "NATURE",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/oceanwaves_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/oceanwaves_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/oceanwaves_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/oceanwaves_c.aac"
       ],
       "iconName": "waves",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/oceantides.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/oceantides.webp"
     },
     {
       "id": "wind",
@@ -102,12 +102,12 @@
       "subtitle": "wind through trees",
       "category": "NATURE",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/wind_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/wind_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/wind_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/wind_c.aac"
       ],
       "iconName": "wind",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
     },
     {
       "id": "crickets",
@@ -117,7 +117,7 @@
       "category": "NATURE",
       "audioUrls": [],
       "iconName": "crickets",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
     },
     {
       "id": "campfire",
@@ -126,12 +126,12 @@
       "subtitle": "wood fire crackling",
       "category": "NATURE",
       "audioUrls": [
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/campfire_a.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/campfire_b.aac",
-        "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/campfire_c.aac"
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_a.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_b.aac",
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/campfire_c.aac"
       ],
       "iconName": "fire",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/campfire.webp"
     },
     {
       "id": "white_noise",
@@ -141,7 +141,7 @@
       "category": "SYNTHETIC",
       "audioUrls": [],
       "iconName": "noise_white",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/whitenoise.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/whitenoise.webp"
     },
     {
       "id": "pink_noise",
@@ -151,7 +151,7 @@
       "category": "SYNTHETIC",
       "audioUrls": [],
       "iconName": "noise_pink",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/pinknoise.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/pinknoise.webp"
     },
     {
       "id": "brown_noise",
@@ -159,9 +159,11 @@
       "description": "Deep Rumble",
       "subtitle": "low frequency hum",
       "category": "SYNTHETIC",
-      "audioUrls": [],
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/brownnoise.aac"
+      ],
       "iconName": "noise_brown",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/brownnoise.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/brownnoise.webp"
     },
     {
       "id": "binaural_focus",
@@ -171,7 +173,7 @@
       "category": "SYNTHETIC",
       "audioUrls": [],
       "iconName": "binaural",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
     },
     {
       "id": "drone_pad",
@@ -181,7 +183,7 @@
       "category": "SYNTHETIC",
       "audioUrls": [],
       "iconName": "drone",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/placeholder.webp"
     },
     {
       "id": "airplane_sound",
@@ -189,9 +191,11 @@
       "description": "airplane",
       "subtitle": "synthesizer drone",
       "category": "SYNTHETIC",
-      "audioUrls": [],
+      "audioUrls": [
+        "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/Airplane.m4a"
+      ],
       "iconName": "airplane",
-      "imageUrl": "https://pub-265ce452f2654dcc9bd9ea6df39404c4.r2.dev/audio-v1/images/placeholder.webp"
+      "imageUrl": "https://raw.githubusercontent.com/AzizManaa/AURA-Assets/main/releases/download/audio-v1/images/airplane.webp"
     }
   ]
 }
